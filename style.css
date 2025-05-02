@@ -1,0 +1,37 @@
+body {
+    background-color: #ffc8fc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto {
+    color: rgb(0, 110, 255);
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    color: grey;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+.boton {
+    background-color: gold;
+    border: none;
+    padding: 20px 40px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+.boton:hover {
+    background-color: darkgoldenrod;
+
+}
+
+.container {
+    text-align: center;
+}
